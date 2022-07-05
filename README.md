@@ -25,7 +25,7 @@ Update the contact us Info
 Admin Dashboard
 
 ## How to Run Project
-1. Download and Unzip the file on your local system copy bbdms.
+1. Download the file on your local system copy bbdms.
 2. Put bbdms folder inside root directory
 Database Configuration
 Open phpmyadmin “http://localhost/phpmyadmin”
