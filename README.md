@@ -34,6 +34,6 @@ Import database bbdms.sql (available inside zip package)
 Open Your browser put inside browser “http://localhost/bbdms”
 For Admin Panel
 Open Your browser put inside browser “http://localhost/bbdms/admin”
-Login Details for admin :
+### Login Details for admin :
 Username: admin
 Password: Test@12345
