@@ -9,19 +9,31 @@
 
 ## Visitor Feature’s ( Front end ):
 Responsive Template, Mobile Friendly
+
 Easy to use
+
+
 Blood Donor Registration System
+
 Blood Group and location-based search engine
+
 Donor Details Information
+
 Contact us Inquiry
 
 ## Admin Feature’s ( Administration Section ):
 Manage Blood Group(add, delete)
+
 Add and Delete Donor Information
+
 Enable and Disable Donors
+
 Manage Website Pages
+
 Manage to Contact us Queries
+
 Update the contact us Info
+
 Admin Dashboard
 
 ## How to Run Project
